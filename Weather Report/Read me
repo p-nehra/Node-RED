@@ -1,1 +1,4 @@
-
+# Weather Report
+This project shows a weather report of selected cities.
+Projects use the Open Weather Map API.
+Dates are not perfect at the end of the month in the forecast. 
